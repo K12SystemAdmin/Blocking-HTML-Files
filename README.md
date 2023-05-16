@@ -27,4 +27,4 @@ Well, it blocks from JavaScript Files from running off the Local Files from your
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-Here is an image on what to look for in Google Admin Console - [JavaScript Blockage](https://github.com/K12SystemAdmin/Blocking-EaglerCraft-HTML-Files/assets/133791743/9e98b8ac-5a56-4908-a271-1ef4e67c2867). 
+Here is an image on what to look for in Google Admin Console - [JavaScript Blockage](https://github.com/K12SystemAdmin/Blocking-HTML-Files/assets/133791743/0a6be525-f908-4ecd-8237-5d5e10b10139)
