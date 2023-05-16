@@ -1,7 +1,8 @@
 # Blocking-EaglerCraft-HTML-Files
 -------------------------------------------------------------------------------------------------------------------------------------
-Greetings District IT Admins/Managers & especially you "Skiddies", I am a former Skidder who would bypass the school filters/restrictions because I would hate the filters that would block even the most simplest sites there would be, and now, I am a Student Tech worker that is currently helping my schools IT Manager into blocking/patching these bypasses, So now I decided to give out my knowledge as a student to you IT Admins's
+### Greetings District IT Admins/Managers & especially you "Skiddies", I am a former Skidder who would bypass the school filters/restrictions because I would hate the filters that would block even the most simplest sites there would be, and now, I am a Student Tech worker that is currently helping my schools IT Manager into blocking/patching these bypasses, So now I decided to give out my knowledge as a student to you IT Admins's
 -------------------------------------------------------------------------------------------------------------------------------------
+
 So here are the steps to do so, and is really simple as well :-) (_**Keep in mind that this needs to be done in GAC (Google Admin Console)**_
 
 -------------------------------------------------------------------------------------------------------------------------------------
