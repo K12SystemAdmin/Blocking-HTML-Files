@@ -4,7 +4,7 @@
 ### To every skid that is looking at this repository, please note that if you are trying to bypass your schools web filters and they block it, do not be mad or upset that they block it and I will tell you why schools do it.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-The **_CIPA_** or the **_Children's Internet Protection Act_** requires schools to implement monitoring software to your school computers that may be _**Federally, District, or School**_ funded because of this law, this may include stuff like
+**CIPA** or the _(Children's Internet Protection Act)_ mandates monitoring software on school computers funded federally, by the district, or by the school. Compliance with this law involves implementing measures such as...
 
 + `Access by minors to inappropriate matter on the Internet;`
 + `The safety and security of minors when using electronic mail, chat rooms and other forms of direct electronic communications;`
